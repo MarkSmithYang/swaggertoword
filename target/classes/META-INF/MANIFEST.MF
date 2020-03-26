@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: SESA392299
+Build-Jdk: 13.0.2
+Implementation-Title: swagger2word
+Implementation-Version: 1.5.0-SNAPSHOT
+Implementation-Vendor-Id: org.word
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Swagger2Word
+Created-By: Maven Integration for Eclipse
+
